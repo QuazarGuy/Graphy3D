@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Graphy3D.App/Graphy3D.App.csproj" />
+    <Project Path="src/Graphy3D.Core/Graphy3D.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Graphy3D.App.Tests/Graphy3D.App.Tests.csproj" />
+    <Project Path="tests/Graphy3D.Core.Tests/Graphy3D.Core.Tests.csproj" />
+  </Folder>
+</Solution>
